@@ -3,7 +3,7 @@ A simple Ray Tracer written in C.
 
 ![screenshot](/screenshot/room.png?raw=true)
 
-# Compiling and executing
+# Compiling and executing (Mac only)
 
 run "make".
 
